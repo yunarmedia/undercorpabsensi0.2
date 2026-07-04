@@ -1,0 +1,24 @@
+{
+  "short_name": "Undercorp",
+  "name": "Undercorp - Portal HRIS Pro",
+  "description": "Sistem Informasi Manajemen Kehadiran & Operasional",
+  "icons": [
+    {
+      "src": "179386_2.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "179386_2.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#f8fafc",
+  "theme_color": "#881337",
+  "display": "standalone",
+  "orientation": "portrait"
+}
